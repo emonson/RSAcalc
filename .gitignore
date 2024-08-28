@@ -3,3 +3,6 @@ x_archive/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+
+# Mac
+.DS_Store
