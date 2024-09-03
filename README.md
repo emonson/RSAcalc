@@ -25,12 +25,8 @@ notebook combines these actions:
 I used the [Anaconda Python distribution](https://www.anaconda.com/download) to set up my Python environment for this work.
 
 ```
-conda create -n rsa pandas jupyterlab
+conda create --name rsa --channel conda-forge pandas jupyterlab biopython freesasa pyarrow openpyxl seaborn
 conda activate rsa
-pip install biopython
-pip install freesasa
-conda install pyarrow
-conda install openpyxl
 ```
 
 ## Credits
