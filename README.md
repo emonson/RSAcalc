@@ -31,8 +31,6 @@ pip install biopython
 pip install freesasa
 conda install pyarrow
 conda install openpyxl
-
-conda activate rsa
 ```
 
 ## Credits
